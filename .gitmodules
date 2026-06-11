@@ -1,0 +1,3 @@
+[submodule "to_delete_2"]
+	path = to_delete_2
+	url = git@github.com:DiQingBai/To_Delete_2.git
